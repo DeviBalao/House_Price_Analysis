@@ -34,6 +34,19 @@ When "Overview of 2023 house price" link is clicked, the following chart will be
 
 Hawaii tops the list at $732,000, followed by California at $684,800. West Viginia is at the bottom of the list with median house price at $114,600.
 
+#### Comparison of National medians with that of selected state
 
+When "2023 house price details by state" link is clicked, a dropdown with the list of states will be shown along with the following charts. Based on the selected state, the chart will be updated dynamically.
+
+![Alt text](image-1.png)
+
+
+![Alt text](image-2.png)
+
+* The median house price in Utah is $458,900. The National median house price is $259,350. 
+
+* The median household income in Utah is $74,197. The National median household income is $62,529. 
+
+* The median house size in Utah is 2,522 square feet. The national median is 1,913.5 square feet.
 
 Data source : Rocket Homes [https://www.rockethomes.com/blog/housing-market/median-home-price-by-state]
