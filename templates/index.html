@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>2023 House Prices</title>
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/styles.css">
+</head>
+<body>
+  <h1 align = "center" style="color:maroon"> House Price Analysis</h1>  
+  <a href="#" id="overviewPage"><h3>Overview of 2023 House Price </h3></a>
+  <p><div id = "OverviewChart" > </div>  
+
+  <!-- Link to the /api/v1.0/states_details endpoint -->
+  <a href="#" id="get-states"><h3>2023 House Price Details by State </h3></a>
+  <p> <div id = "placeholder"> </div>
+ <!-- Div to include the dropdown box -->
+ <p> <p><div id="states-json">  </div>
+
+  <p><div id = "charts_by_state"> 
+        <canvas id="barChart"></canvas>         
+    </div>
+  <p><div id = "sqftChart">   </div> 
+
+  <!-- Include d3.js -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Include chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+   <!-- Include Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <!-- Include the external JavaScript file -->
+  <script src="./static/script.js"></script>
+  
+</body>
+</html>
