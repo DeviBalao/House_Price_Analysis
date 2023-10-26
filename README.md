@@ -70,4 +70,10 @@ In West Virginia, Mississippi, Arkansas, Oklahoma and Iowa, the median house pri
 
 Maryland has the highest median household Income. The Median Household Income in Maryland, New Jersey, Massachusetts and Hawaii is in a close range, however the Median house price in Maryland and New Jersey are about half the median house price in Hawaii.
 
+### Comparing Utah with National Median:
+
+![Alt text](image-8.png)    ![Alt text](image-9.png)   ![Alt text](image-10.png)
+
+Utah ranks 6th, next to Colorado with median house price of $458,900. The median house price in Utah is 6x the median household income and almost 2x the median house price at National level.
+
 Data source : Rocket Homes [https://www.rockethomes.com/blog/housing-market/median-home-price-by-state]
