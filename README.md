@@ -1,7 +1,7 @@
-# House_Price_Analysis
+# House Price Analysis
 Creating an interactive dashboard with visualizations of median house price details for each state.
 
-### Analysis of Median House Price data across the 50 states in USA:
+### Analysis of Median House Price across the 50 states in USA:
 
 Input data is available in Resources\data\house_price_data.xlsx
 
